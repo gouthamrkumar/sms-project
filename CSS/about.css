@@ -1,0 +1,32 @@
+body {
+    font-size: 16px;
+    font-family: 'Nunito', Nunito Sans;
+    background-color: #222629;
+    color: white;
+    margin: 10;
+    margin-top: 20px;
+    margin-left: 22px;
+    margin-right: 22px;
+
+
+}
+
+.heading {
+    align-items: center;
+    align-content: justify;
+    padding-bottom: 100px;
+}
+
+
+table, th, td {
+    width: 400;
+    margin: auto;
+    padding: 30 px;
+    text-align: center;
+    border: 3px solid white ;
+    border-radius: 10px;
+}
+
+.table{
+    padding-bottom: 100px;
+}

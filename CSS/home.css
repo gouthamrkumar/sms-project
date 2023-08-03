@@ -1,0 +1,153 @@
+body {
+    font-size: 16px;
+    font-family: 'Nunito', Nunito Sans;
+    background-color: #222629;
+    color: white;
+    margin: 0;
+    margin-top: 10px;
+    margin-left: 22px;
+    margin-right: 22px;
+    padding: 0;
+
+}
+
+hr {
+    border-top: 1px solid white;
+}
+
+.container {
+    padding: 0 5%;
+
+    
+}
+
+
+
+/* paragraph */
+.paragraph{
+    padding-bottom: 75px;
+}
+.paragraph span {
+    font-size: 45px;
+    padding-bottom: 10px;
+
+}
+.paragraph p {
+    font-size: 16px;
+    line-height: 2;
+    padding-bottom: 10px;
+}
+
+/* image slider */
+.image {
+    text-align: center;
+}
+.image img {
+    width: 50%;
+}
+
+
+
+hr {
+    border-top: 1px solid white;
+}
+
+
+.main{
+
+}
+.main span {
+    font-size: 20px;
+}
+.main p {
+    font-size: 16px;
+    line-height: 2;
+}
+
+.info {
+    display: grid;
+    grid-gap: 2%;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.info span {
+    color: #86c232;
+    font-size: 20px;
+}
+
+.footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    line-height: 2;
+    margin-top: 100px;
+}
+.footer a{
+    color: white;
+    display: block;
+}
+.footer span {
+    font-size: 20px;
+}
+
+
+
+/* image slider */
+.slider {
+    text-align: center;
+}
+.slider img {
+    width: 50%;
+}
+
+.slider-image{
+
+}
+
+
+/* Our Mission */
+.row {
+    margin-top: 20px;
+    margin-left: -120px;
+    margin-right: -280px;
+
+
+}
+
+
+.section-title{
+    margin-left: -109px;
+    margin-right: -280px;
+
+}
+
+
+/* counts */
+
+.counts .counters span {
+  font-size: 48px;
+  display: block;
+  color: #ffffff;
+  font-weight: 300;
+}
+
+.counts .counters p {
+  padding: 0;
+  margin: 0 0 20px 0;
+  font-family: "Nunito", Nunito-serif;
+  font-size: 15px;
+  font-weight: 300;
+  color: #faf7f8;
+}
+
+#counts{
+  padding-bottom: 100px;
+  margin: auto;
+
+}
+
+/* Mission & Vission */
+.mission_vission{
+    padding-bottom: 100px;
+
+}
+
+
